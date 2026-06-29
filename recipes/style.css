@@ -1,0 +1,11 @@
+body a {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+img {
+    border-radius: 5px;
+}
